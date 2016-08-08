@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/ellipse.gif</file>
+        <file>img/rectangle.jpg</file>
+        <file>img/ClearScreen.jpg</file>
+        <file>img/line.png</file>
+        <file>img/pall.jpg</file>
+        <file>img/redo.png</file>
+        <file>img/Undo.png</file>
+    </qresource>
+</RCC>
